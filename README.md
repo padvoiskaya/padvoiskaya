@@ -51,11 +51,10 @@
 - Установка MySQL, работа в DBeaver<br>
 - SELECT-запросы, агрегатные функции, JOIN<br>
 - Работа с MongoDB: создание коллекций<br>
-🔧Результаты в репозитории [Работа с БД]([https://github.com/padvoiskaya/API](https://github.com/padvoiskaya/Working-with-databases))
+🔧Результаты в репозитории [Работа с БД](https://github.com/padvoiskaya/Working-with-databases)
 
 
-
-## 📫 Как связаться со мной:
+## ✉️ Как связаться со мной:
 
 - [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anastasiya-p-276b79178)
 - [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nastyapolivko@gmail.com)
