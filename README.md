@@ -40,10 +40,18 @@
 
 🔧 Результаты в репозитории [Тестирование веб-приложений](https://github.com/padvoiskaya/web)
 
-## Тестирование API и SOAP  
+## 🔌 Тестирование API и SOAP  
 Погрузилась в тестирование API и SOAP-сервисов, освоила работу с Postman и создание тестов для REST и SOAP.<br>
 
 🔧Результаты в репозитории [Тестирование API и SOAP](https://github.com/padvoiskaya/API)
+
+## 🗄️ Работа с данными
+
+- Типы баз данных (SQL, NoSQL)<br>
+- Установка MySQL, работа в DBeaver<br>
+- SELECT-запросы, агрегатные функции, JOIN<br>
+- Работа с MongoDB: создание коллекций<br>
+🔧Результаты в репозитории [Работа с БД]([https://github.com/padvoiskaya/API](https://github.com/padvoiskaya/Working-with-databases))
 
 
 
