@@ -33,16 +33,17 @@
 
 Изучила основы работы веб-приложений и принципы их тестирования:
 
-- Принципы работы Internet: IP, MAC, URL, DNS.
-- Клиент-серверная архитектура, HTTP-протокол. Кэш и куки:.
-- Инструменты Chrome DevTools для отладки и тестирования.
+- Принципы работы Internet: IP, MAC, URL, DNS.<br>
+- Клиент-серверная архитектура, HTTP-протокол. Кэш и куки.<br>
+- Инструменты Chrome DevTools для отладки и тестирования.<br>
 - Основы HTML и CSS для тестирования UI. Также создала простую веб-страницу. <br>
+
 🔧 Результаты в репозитории [Тестирование веб-приложений](https://github.com/padvoiskaya/web)
 
 ## Тестирование API и SOAP  
-Погрузился в тестирование API и SOAP-сервисов, освоил работу с Postman и создание тестов для REST и SOAP.  
+Погрузилась в тестирование API и SOAP-сервисов, освоила работу с Postman и создание тестов для REST и SOAP.<br>
 
-🔌 Результаты в репозитории [Тестирование API и SOAP](https://github.com/padvoiskaya/API)
+🔧Результаты в репозитории [Тестирование API и SOAP](https://github.com/padvoiskaya/API)
 
 
 
@@ -51,8 +52,3 @@
 - [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anastasiya-p-276b79178)
 - [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nastyapolivko@gmail.com)
 - [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/padvoiskayaa)
-
-
-
-
-
